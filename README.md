@@ -1,12 +1,10 @@
 # Springboot - vue 在线拍卖系统 / Online Auction System
----
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.x-brightgreen)
 ![MyBatisPlus](https://img.shields.io/badge/MyBatisPlus-2.3-orange)
 ![Shiro](https://img.shields.io/badge/Shiro-1.3.2-blue)
 ![License](https://img.shields.io/badge/License-Apache2.0-orange)
 
----
 # 项目简介  
 基于SpringBoot + MyBatisPlus + Shiro的在线拍卖平台，包含商品管理、竞拍订单、历史记录和消息通知功能，支持前后端分离架构与鉴权控制。
 
