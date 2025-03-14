@@ -1,4 +1,4 @@
-# 在线拍卖系统 / Online Auction System
+# Springboot - vue 在线拍卖系统 / Online Auction System
 ---
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.x-brightgreen)
